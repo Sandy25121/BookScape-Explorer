@@ -69,6 +69,7 @@ The **BookScape Explorer** aims to:
 - **SQL Database**: Fully populated with book data.
 - **API Scripts**: For data extraction and transformation.
 - **Streamlit Application**: User-friendly exploration tool.
+
 ---
 
 ## Project Evaluation Metrics
@@ -76,6 +77,7 @@ The **BookScape Explorer** aims to:
 - **SQL Design**: Well-structured and normalized tables.
 - **Query Efficiency**: Optimized SQL queries.
 - **Streamlit Functionality**: Smooth, interactive user experience.
+
 ---
 
 ## Technical Tags
@@ -97,9 +99,23 @@ The **BookScape Explorer** aims to:
    pip install pandas streamlit pymysql requests
    ```
 
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-repo/bookscape-explorer.git
+   ```
+2. Set up the SQL database and populate it using the provided scripts.
+3. Configure the Streamlit app with your database credentials.
+4. Run the application:
+   ```bash
+   streamlit run app.py
+   ```
+
 ---
 
 ## References
 1. [Google Books API Documentation](https://developers.google.com/books)
 2. [Streamlit Documentation](https://docs.streamlit.io)
+
+
 
