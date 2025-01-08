@@ -117,5 +117,12 @@ The **BookScape Explorer** aims to:
 1. [Google Books API Documentation](https://developers.google.com/books)
 2. [Streamlit Documentation](https://docs.streamlit.io)
 
+---
+Output:
+
+![image](https://github.com/user-attachments/assets/ae190727-3347-46ed-8b93-59c88a3e6740)
+
+
+
 
 
